@@ -1,0 +1,18 @@
+\contentsline {chapter}{Preface}{3}{chapter*.2}%
+\contentsline {chapter}{\numberline {1}INTRODUÇÃO}{4}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Objetivo}{4}{section.1.1}%
+\contentsline {chapter}{\numberline {2}METODOLOGIA}{5}{chapter.2}%
+\contentsline {chapter}{\numberline {3}ACHADOS}{6}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Sobre o contrato}{6}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Sobre as medições}{7}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Sobre as subempreitas}{8}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Sobre a soma dos serviços encontrados}{8}{section.3.4}%
+\contentsline {section}{\numberline {3.5}Sobre a taxa de administração}{10}{section.3.5}%
+\contentsline {chapter}{\numberline {4}CONCLUSÃO}{12}{chapter.4}%
+\contentsline {chapter}{ANEXO I}{13}{chapter*.3}%
+\contentsline {chapter}{ANEXO II\textbar {}}{24}{chapter*.4}%
+\contentsline {chapter}{ANEXO III}{27}{chapter*.5}%
+\contentsline {chapter}{ANEXO IV}{38}{chapter*.6}%
+\contentsline {chapter}{ANEXO V}{41}{chapter*.7}%
+\contentsline {chapter}{ANEXO VI}{43}{chapter*.8}%
+\providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 

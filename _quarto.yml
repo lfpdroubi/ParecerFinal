@@ -1,0 +1,22 @@
+project:
+  type: book
+
+book:
+  title: "Parecer Técnico"
+  author: "Luiz Fernando Palin Droubi"
+  date: "22/08/2025"
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - summary.qmd
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+  pdf:
+    documentclass: scrreprt
+    include-in-header: header.tex
+
+

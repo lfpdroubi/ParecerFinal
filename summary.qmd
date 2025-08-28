@@ -1,0 +1,65 @@
+# CONCLUSÃO
+
+São diversas as evidências apresentadas, tanto neste parecer como em anteriores
+elaborados pelo mesmo autor, de ocorrência de diversos desvios, tais como:
+
+1. Empréstimos não-autorizados em benefício dos administradores
+2. Superfaturamento de projetos
+3. Superfaturamento da taxa de administração dos serviços
+4. Superfaturamento dos serviços de empreitada global
+5. Tratamento desiguals dos sócios, com  claro favorecimento de alguns sócios, 
+para os quais foram vendidas unidades a preços unitários muito abaixo dos demais,
+possíveis laranjas dos próprios administradores.
+
+Deve-se notar que os administradores arquitetaram a remoção do sócio Luiz
+Fernando Palin Droubi do quadro societário, e também, por conseguinte, do
+Conselho Fiscal do empreendimento, momento a partir do qual eles continuaram a
+praticar os abusos que já haviam cometidos anteriormente e vinham sendo objeto
+de apontamento por parte deste conselheiro. Com a retirada do Luiz Fernando da
+sociedade, os administradores contaram com a falta de transparência para
+continuar cometendo diversos desvios. Para nossa surpresa, o atual conselho
+fiscal não se mostrou atuante, deixando os administradores pintarem e bordarem.
+
+A atual mudança de posição de alguns dos membros do Conselho Fiscal causa
+estranhamento pois estes, outrora tão combativos aos malfeitos dos
+administradores, hoje estão fazendo declarações como as supra-mencionadas, de
+que não encontraram nenhuma irregularidade na administração e são, portanto, a
+favor da aprovação das contas. Ora, isso faz lembrar outra declaração de um
+membro do Conselho Fiscal de que haveria uma chantagem dos administradores em
+relação à liberação das matrículas. Segundo disse esse Conselheiro, os
+administradores haviam colocado como condição para a liberação das matrículas a
+aprovação das contas. Este parecerista, confiante na boa-fé das pessoas
+envolvidas, sem questionar a sua dignidade, de forma alguma, pois os tem como
+pessoas da mais alta consideração, porém, especula que, por interesse em *se
+livrar do problema*, por pressa, os conselheiros tenham optado por ceder à
+chantagem dos administradores, para que possam adquirir as suas matrículas.
+Devemos lembrar, contudo, que os conselheiros não se encontram imbuídos na
+função de defender aos seus próprios interesses mas, pelo contrário, como
+membros do conselho, devem defender o interesse da coletividade, ou seja, de
+**todos os sócios**, e não atuar em causa própria apenas. Cabe lembrar que os
+conselheiros são solidários aos atos dos administradores caso orientem pela
+aprovação das contas.
+
+# ANEXO I {-}
+
+\includepdf[pages=-]{./refs/CT_DJ_Empreitada_Global.pdf}
+
+# ANEXO II| {-}
+
+\includepdf[pages=-]{./refs/CT_DJ_Empreitada Globa - Aditivo.pdf}
+
+# ANEXO III {-}
+
+\includepdf[pages=-]{./refs/Contrato Veyron DJ - Assinado.pdf}
+
+# ANEXO IV {-}
+
+\includepdf[pages=-]{./refs/01_Notificação Extrajudicial_250822_152450.pdf}
+
+# ANEXO V {-}
+
+\includepdf[pages=-]{./refs/Resumo_Medicoes.pdf}
+
+# ANEXO VI {-}
+
+\includepdf[pages=-]{./refs/NF GDI/Resumo_GDI.pdf}
